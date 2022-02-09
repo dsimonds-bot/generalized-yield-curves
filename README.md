@@ -27,5 +27,3 @@ Following the conclusion of the script, the user will see:
 
 Note the function will also print the regression results and visual in the same folder
 
-### Misc
-For education purposes, I've included dummy data on in this folder for MAI users to test the script on
